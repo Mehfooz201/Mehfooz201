@@ -9,11 +9,9 @@
 
 - 🌱 I’m currently learning **Django Back-End Development & Artificial Intelligence (AI, ML,DP)**
 
-- 👨‍💻 All of my projects are available at [graphicx.mehfooz201@gmail.com](graphicx.mehfooz201@gmail.com)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, Bootstrap, Python, Java, Django**
 
-- 📫 How to reach me **shahw4642@gmail.com**
+- 📫 How to reach me **graphicx.mehfooz201@gmail.com**
 
 - 📄 Know about my experiences [https://mprofile.mstaxsolution.com/](https://mprofile.mstaxsolution.com/)
 
