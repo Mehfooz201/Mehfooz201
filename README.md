@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm <b>Mehfooz Ali</b></h1>
-<h3 align="center">I'm a Passionate Python / Django Developer | WordPress Developer</h3>
+<h3 align="center">I'm a Passionate Jr. Machine Learning Engineer & Python / Django Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehfooz201&label=Profile%20views&color=0e75b6&style=flat" alt="mehfooz201" /> </p>
 
